@@ -38,7 +38,7 @@ if (qtdLugaresDisponiveis > 0) {
 ```
 ######   • Consulta: Exibir dados de cadastro do voo.
 
-### 2 -> Requisitos do programa: 
+### 2 -> Funcionalidades do sistema: 
 
 | Cadastro  |  Consulta  | Extra |
 |-----------|------------|-------|
