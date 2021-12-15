@@ -11,7 +11,7 @@
 
 ## Banco de Dados
 
-• Foi utilizado o SQL Server para realizar essa tarefa
+• Foi utilizado o SQL Server para realizar essa tarefa </p>
 • SQL Server JDBC Driver -> https://docs.microsoft.com/pt-br/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15
 
 ## Como preparar o  🏦(banco) de 🎲 (dados) ? 🤔
