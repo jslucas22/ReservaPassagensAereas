@@ -42,7 +42,7 @@ if (qtdLugaresDisponiveis > 0) {
 
 | Cadastro  |  Consulta  | Extra |
 |-----------|------------|-------|
-| Voo | Voo | SQL Server | Sair  |
+| Voo       | Voo        | Sair  |
 | Reserva   |            |       |
 
 ## Banco de Dados
